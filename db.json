@@ -1,0 +1,23 @@
+{
+  "subscriptions": [
+    {
+      "id": "lebpx9o",
+      "url": "https://www.vinted.fr/vetements?search_text=dunk&size_id[]=788&currency=EUR&search_id=3870020856&order=newest_first&price_to=120",
+      "channelID": "961692341851275344"
+    },
+    {
+      "id": "pyqlnn",
+      "url": "https://www.vinted.fr/vetements?search_text=dunk&size_id[]=788&currency=EUR&search_id=3870020856&order=newest_first&price_to=120",
+      "channelID": "930152019392622602"
+    },
+    {
+      "id": "xpw83m",
+      "url": "https://www.vinted.fr/vetements?search_text=jordan%201&search_id=5007179811&time=1649627077",
+      "channelID": "930152019392622602"
+    }
+  ],
+  "last_item_ts_lebpx9o": null,
+  "last_item_ts_pyqlnn": null,
+  "is_first_sync": false,
+  "last_item_ts_xpw83m": null
+}
